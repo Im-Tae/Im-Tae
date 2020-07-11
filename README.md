@@ -1,16 +1,36 @@
-### Hi there 👋
+### TaeGeon Lim    @Im-Tae
 
-<!--
-**Im-Tae/Im-Tae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, Welcome to my Github. I am software developer in the Android field.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📑Languages
+
+
+
+- Kotlin ( main )
+- Java
+- C#
+- Dart ( beginner )
+- Python ( beginner )
+
+
+
+### 📕 Learning
+
+
+
+- Flutter
+- Spring Boot
+
+
+
+### 😎 Contact
+
+
+
+- [Facebook](https://www.facebook.com/profile.php?id=100004293377816)
+
+- [LinkedIn](https://www.linkedin.com/in/limtaegeon/)
+- Email - itggood2420@gmail.com
+
