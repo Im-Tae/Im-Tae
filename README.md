@@ -39,3 +39,12 @@
 
 ![](https://ghchart.rshah.org/Im-Tae)
 
+
+
+</br>
+
+<p align="center"> 
+  Count<br>
+  <img src="https://profile-counter.glitch.me/Im-Tae/count.svg" />
+</p>
+
