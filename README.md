@@ -10,12 +10,8 @@
 
 
 
-- Kotlin ( advanced )
-- Java ( intermediate )
-- C# ( intermediate )
-- Dart ( beginner )
-- Python ( beginner )
-- JavaScript ( beginner )
+- **Kotlin** [ Android | Spring Boot ]
+- Java, C#, Dart, Python, JavaScript
 
 
 
@@ -24,7 +20,6 @@
 
 
 - Flutter
-- Spring Boot
 - Node.js
 
 
