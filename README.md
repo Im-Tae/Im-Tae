@@ -26,7 +26,7 @@
 
 ### ⭐ My GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Im-Tae&show_icons=true&hide_border=true)]((https://github.com/Im-Tae))
+[![](https://github-readme-stats.vercel.app/api?username=Im-Tae&count_private=true&show_icons=true&hide_border=true)]((https://github.com/Im-Tae))
 
 
 
