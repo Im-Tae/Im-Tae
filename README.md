@@ -11,7 +11,7 @@
 
 
 - **Kotlin** [ Android | Spring Boot ]
-- Java, C#, Dart, Python, JavaScript
+- Java, C#, Dart, Python, JavaScript, TypeScript
 
 
 
@@ -20,7 +20,7 @@
 
 
 - Flutter
-- Node.js
+- React Native
 
 
 
