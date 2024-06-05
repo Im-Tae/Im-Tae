@@ -42,19 +42,17 @@
   <img src="https://profile-counter.glitch.me/Im-Tae/count.svg" />
 </p>
 
-
-
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/Im-Tae?pet-id=586073187362893545"
+    src="https://render.gitanimals.org/lines/Im-Tae?pet-id=586075221281557114"
     width="600"
     height="120"
   />
 </a>
-
+  
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/Im-Tae?pet-id=586073187362893545"
+  src="https://render.gitanimals.org/farms/Im-Tae"
   width="600"
   height="300"
 />
